@@ -526,6 +526,7 @@ Mobile Screen
     position: relative;
     overflow: hidden;
     cursor: pointer;
+    display: flex;
   }
 
   .team-info {
